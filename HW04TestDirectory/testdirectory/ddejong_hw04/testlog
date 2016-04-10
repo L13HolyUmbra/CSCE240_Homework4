@@ -1,0 +1,4 @@
+Main: Beginning execution
+Main: outfile 'testout'
+Main: logfile 'testlog'
+Main: Ending execution

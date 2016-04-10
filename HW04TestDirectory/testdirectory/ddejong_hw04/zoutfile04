@@ -1,0 +1,176 @@
+Main: RN seed is 1
+
+random 1804289383
+random 846930886
+random 1681692777
+random 1714636915
+random 1957747793
+random 424238335
+random 719885386
+random 1649760492
+random 596516649
+random 1189641421
+MY HAND [  F   8 10 ][  F   7 11 ][  F   3  4 ][  F   9 10 ][  F   0  1 ][  F   6  9 ][  F   3  5 ][  F   1  4 ][  F   5  9 ][  F   0  2 ][  F   6 11 ][  F   1  1 ]
+startNum 0
+         NEW MAX              :   (  1)  :  [  T   0  1 ]
+         NEW MAX              :   (  2)  :  [  T   0  1 ][  T   1  4 ]
+         NEW MAX              :   (  3)  :  [  T   0  1 ][  T   1  4 ][  T   4  3 ]
+         NEW MAX              :   (  4)  :  [  T   0  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ]
+         NEW MAX              :   (  5)  :  [  T   0  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ]
+         NEW MAX              :   (  6)  :  [  T   0  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9 10 ]
+         NEW MAX              :   (  7)  :  [  T   0  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9 10 ][  T  10  8 ]
+         NEW MAX              :   (  7)  :  [  T   0  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ]
+         NEW MAX              :   (  8)  :  [  T   0  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+         NEW MAX              :   (  8)  :  [  T   0  1 ][  T   1  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9 10 ][  T  10  8 ]
+         NEW MAX              :   (  8)  :  [  T   0  1 ][  T   1  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ]
+         NEW MAX              :   (  9)  :  [  T   0  1 ][  T   1  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+    MAX SEQ FOR0              :   (  9)  :  [  T   0  1 ][  T   1  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+
+startNum 1
+         NEW MAX              :   (  1)  :  [  T   1  0 ]
+         NEW MAX              :   (  2)  :  [  T   1  0 ][  T   0  2 ]
+         NEW MAX              :   (  2)  :  [  T   1  4 ][  T   4  3 ]
+         NEW MAX              :   (  3)  :  [  T   1  4 ][  T   4  3 ][  T   3  5 ]
+         NEW MAX              :   (  4)  :  [  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ]
+         NEW MAX              :   (  5)  :  [  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9 10 ]
+         NEW MAX              :   (  6)  :  [  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9 10 ][  T  10  8 ]
+         NEW MAX              :   (  6)  :  [  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ]
+         NEW MAX              :   (  7)  :  [  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+         NEW MAX              :   (  7)  :  [  T   1  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9 10 ][  T  10  8 ]
+         NEW MAX              :   (  7)  :  [  T   1  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ]
+         NEW MAX              :   (  8)  :  [  T   1  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+    MAX SEQ FOR1              :   (  8)  :  [  T   1  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+
+startNum 2
+         NEW MAX              :   (  1)  :  [  T   2  0 ]
+         NEW MAX              :   (  2)  :  [  T   2  0 ][  T   0  1 ]
+         NEW MAX              :   (  3)  :  [  T   2  0 ][  T   0  1 ][  T   1  4 ]
+         NEW MAX              :   (  4)  :  [  T   2  0 ][  T   0  1 ][  T   1  4 ][  T   4  3 ]
+         NEW MAX              :   (  5)  :  [  T   2  0 ][  T   0  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ]
+         NEW MAX              :   (  6)  :  [  T   2  0 ][  T   0  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ]
+         NEW MAX              :   (  7)  :  [  T   2  0 ][  T   0  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9 10 ]
+         NEW MAX              :   (  8)  :  [  T   2  0 ][  T   0  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9 10 ][  T  10  8 ]
+         NEW MAX              :   (  8)  :  [  T   2  0 ][  T   0  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ]
+         NEW MAX              :   (  9)  :  [  T   2  0 ][  T   0  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+         NEW MAX              :   (  9)  :  [  T   2  0 ][  T   0  1 ][  T   1  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9 10 ][  T  10  8 ]
+         NEW MAX              :   (  9)  :  [  T   2  0 ][  T   0  1 ][  T   1  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ]
+         NEW MAX              :   (  10)  :  [  T   2  0 ][  T   0  1 ][  T   1  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+    MAX SEQ FOR2              :   (  10)  :  [  T   2  0 ][  T   0  1 ][  T   1  1 ][  T   1  4 ][  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+
+startNum 3
+         NEW MAX              :   (  1)  :  [  T   3  4 ]
+         NEW MAX              :   (  2)  :  [  T   3  4 ][  T   4  1 ]
+         NEW MAX              :   (  3)  :  [  T   3  4 ][  T   4  1 ][  T   1  0 ]
+         NEW MAX              :   (  4)  :  [  T   3  4 ][  T   4  1 ][  T   1  0 ][  T   0  2 ]
+         NEW MAX              :   (  4)  :  [  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ]
+         NEW MAX              :   (  5)  :  [  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+         NEW MAX              :   (  5)  :  [  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+    MAX SEQ FOR3              :   (  5)  :  [  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+
+startNum 4
+         NEW MAX              :   (  1)  :  [  T   4  3 ]
+         NEW MAX              :   (  2)  :  [  T   4  3 ][  T   3  5 ]
+         NEW MAX              :   (  3)  :  [  T   4  3 ][  T   3  5 ][  T   5  9 ]
+         NEW MAX              :   (  4)  :  [  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9 10 ]
+         NEW MAX              :   (  5)  :  [  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9 10 ][  T  10  8 ]
+         NEW MAX              :   (  5)  :  [  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ]
+         NEW MAX              :   (  6)  :  [  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+    MAX SEQ FOR4              :   (  6)  :  [  T   4  3 ][  T   3  5 ][  T   5  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+
+startNum 5
+         NEW MAX              :   (  1)  :  [  T   5  3 ]
+         NEW MAX              :   (  2)  :  [  T   5  3 ][  T   3  4 ]
+         NEW MAX              :   (  3)  :  [  T   5  3 ][  T   3  4 ][  T   4  1 ]
+         NEW MAX              :   (  4)  :  [  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ]
+         NEW MAX              :   (  5)  :  [  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ][  T   0  2 ]
+         NEW MAX              :   (  5)  :  [  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ]
+         NEW MAX              :   (  6)  :  [  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+    MAX SEQ FOR5              :   (  6)  :  [  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+
+startNum 6
+         NEW MAX              :   (  1)  :  [  T   6  9 ]
+         NEW MAX              :   (  2)  :  [  T   6  9 ][  T   9 10 ]
+         NEW MAX              :   (  3)  :  [  T   6  9 ][  T   9 10 ][  T  10  8 ]
+         NEW MAX              :   (  3)  :  [  T   6  9 ][  T   9  5 ][  T   5  3 ]
+         NEW MAX              :   (  4)  :  [  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ]
+         NEW MAX              :   (  5)  :  [  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ]
+         NEW MAX              :   (  6)  :  [  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ]
+         NEW MAX              :   (  7)  :  [  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ][  T   0  2 ]
+         NEW MAX              :   (  7)  :  [  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ]
+         NEW MAX              :   (  8)  :  [  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+    MAX SEQ FOR6              :   (  8)  :  [  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+
+startNum 7
+         NEW MAX              :   (  1)  :  [  T   7 11 ]
+         NEW MAX              :   (  2)  :  [  T   7 11 ][  T  11  6 ]
+         NEW MAX              :   (  3)  :  [  T   7 11 ][  T  11  6 ][  T   6  9 ]
+         NEW MAX              :   (  4)  :  [  T   7 11 ][  T  11  6 ][  T   6  9 ][  T   9 10 ]
+         NEW MAX              :   (  5)  :  [  T   7 11 ][  T  11  6 ][  T   6  9 ][  T   9 10 ][  T  10  8 ]
+         NEW MAX              :   (  5)  :  [  T   7 11 ][  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ]
+         NEW MAX              :   (  6)  :  [  T   7 11 ][  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ]
+         NEW MAX              :   (  7)  :  [  T   7 11 ][  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ]
+         NEW MAX              :   (  8)  :  [  T   7 11 ][  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ]
+         NEW MAX              :   (  9)  :  [  T   7 11 ][  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ][  T   0  2 ]
+         NEW MAX              :   (  9)  :  [  T   7 11 ][  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ]
+         NEW MAX              :   (  10)  :  [  T   7 11 ][  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+    MAX SEQ FOR7              :   (  10)  :  [  T   7 11 ][  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+
+startNum 8
+         NEW MAX              :   (  1)  :  [  T   8 10 ]
+         NEW MAX              :   (  2)  :  [  T   8 10 ][  T  10  9 ]
+         NEW MAX              :   (  3)  :  [  T   8 10 ][  T  10  9 ][  T   9  6 ]
+         NEW MAX              :   (  4)  :  [  T   8 10 ][  T  10  9 ][  T   9  6 ][  T   6 11 ]
+         NEW MAX              :   (  5)  :  [  T   8 10 ][  T  10  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+         NEW MAX              :   (  5)  :  [  T   8 10 ][  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ]
+         NEW MAX              :   (  6)  :  [  T   8 10 ][  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ]
+         NEW MAX              :   (  7)  :  [  T   8 10 ][  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ]
+         NEW MAX              :   (  8)  :  [  T   8 10 ][  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ][  T   0  2 ]
+         NEW MAX              :   (  8)  :  [  T   8 10 ][  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ]
+         NEW MAX              :   (  9)  :  [  T   8 10 ][  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+    MAX SEQ FOR8              :   (  9)  :  [  T   8 10 ][  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+
+startNum 9
+         NEW MAX              :   (  1)  :  [  T   9 10 ]
+         NEW MAX              :   (  2)  :  [  T   9 10 ][  T  10  8 ]
+         NEW MAX              :   (  2)  :  [  T   9  6 ][  T   6 11 ]
+         NEW MAX              :   (  3)  :  [  T   9  6 ][  T   6 11 ][  T  11  7 ]
+         NEW MAX              :   (  3)  :  [  T   9  5 ][  T   5  3 ][  T   3  4 ]
+         NEW MAX              :   (  4)  :  [  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ]
+         NEW MAX              :   (  5)  :  [  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ]
+         NEW MAX              :   (  6)  :  [  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ][  T   0  2 ]
+         NEW MAX              :   (  6)  :  [  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ]
+         NEW MAX              :   (  7)  :  [  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+    MAX SEQ FOR9              :   (  7)  :  [  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+
+startNum 10
+         NEW MAX              :   (  1)  :  [  T  10  8 ]
+         NEW MAX              :   (  1)  :  [  T  10  9 ]
+         NEW MAX              :   (  2)  :  [  T  10  9 ][  T   9  6 ]
+         NEW MAX              :   (  3)  :  [  T  10  9 ][  T   9  6 ][  T   6 11 ]
+         NEW MAX              :   (  4)  :  [  T  10  9 ][  T   9  6 ][  T   6 11 ][  T  11  7 ]
+         NEW MAX              :   (  4)  :  [  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ]
+         NEW MAX              :   (  5)  :  [  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ]
+         NEW MAX              :   (  6)  :  [  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ]
+         NEW MAX              :   (  7)  :  [  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ][  T   0  2 ]
+         NEW MAX              :   (  7)  :  [  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ]
+         NEW MAX              :   (  8)  :  [  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+   MAX SEQ FOR10              :   (  8)  :  [  T  10  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+
+startNum 11
+         NEW MAX              :   (  1)  :  [  T  11  7 ]
+         NEW MAX              :   (  1)  :  [  T  11  6 ]
+         NEW MAX              :   (  2)  :  [  T  11  6 ][  T   6  9 ]
+         NEW MAX              :   (  3)  :  [  T  11  6 ][  T   6  9 ][  T   9 10 ]
+         NEW MAX              :   (  4)  :  [  T  11  6 ][  T   6  9 ][  T   9 10 ][  T  10  8 ]
+         NEW MAX              :   (  4)  :  [  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ]
+         NEW MAX              :   (  5)  :  [  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ]
+         NEW MAX              :   (  6)  :  [  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ]
+         NEW MAX              :   (  7)  :  [  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ]
+         NEW MAX              :   (  8)  :  [  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  0 ][  T   0  2 ]
+         NEW MAX              :   (  8)  :  [  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ]
+         NEW MAX              :   (  9)  :  [  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+   MAX SEQ FOR11              :   (  9)  :  [  T  11  6 ][  T   6  9 ][  T   9  5 ][  T   5  3 ][  T   3  4 ][  T   4  1 ][  T   1  1 ][  T   1  0 ][  T   0  2 ]
+
+startNum 12
+   MAX SEQ FOR12              :   (  0)  :  
+
